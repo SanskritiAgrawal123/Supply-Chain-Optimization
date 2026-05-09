@@ -1,0 +1,1 @@
+This folder contains the raw and validated datasets for the SC Networks Global supply chain audit. It includes delivery history logs used to identify operational bottlenecks and high-value cargo risks.
