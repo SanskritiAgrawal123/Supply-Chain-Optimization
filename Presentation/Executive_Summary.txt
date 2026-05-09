@@ -1,0 +1,7 @@
+This folder contains the final executive presentation for the SC Networks Global audit. It translates complex data insights into strategic recommendations, focusing on:
+
+Consolidation Strategies: Addressing the 159-day US trucking delay.
+
+Risk Mitigation: A $120M action plan for uninsured high-value shipments.
+
+Vendor Optimization: Cost-saving recommendations based on performance audits.
