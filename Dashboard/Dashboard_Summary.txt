@@ -1,0 +1,7 @@
+This folder contains the Integrated Supply Chain Control Center dashboard. It visualizes key performance indicators for SC Networks Global, including:
+
+Operational Efficiency: Tracking the 159-day US trucking bottleneck.
+
+Financial Risk: Identifying $120M in uninsured high-value shipments.
+
+Vendor Performance: Auditing delivery late rates across Air, Truck, and Ocean modes.
